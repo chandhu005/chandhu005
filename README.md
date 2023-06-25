@@ -1,18 +1,19 @@
 
 ![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg)
-
 <h1 align="center">Hi 👋, I'm Chandrasekhar</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
-- 🔭 I’m currently working on **RPA**
+- 🔭 I’m currently working on **FrontEND**
 
-- 🌱 I’m currently learning **java backend specialization**
+- 🌱 I’m currently learning **FRONTEND DEVELOPMENT**
 
-- 👯 I’m looking to collaborate on **BACKEND WEB DEVELOPMENT**
+- 👯 I’m looking to collaborate on **FRONTEND DEVELOPMENT**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **FRONTEND**
 
 - 📫 How to reach me **chandrasekharchadalawada7@gmail.com**
+- 
+
 <img align="right" alt="Coding" width="400" src="https://consultaninja.com/wp-content/uploads/CodeNinja-1.png">
 
 <h3 align="left">Connect with me:</h3>
