@@ -1,7 +1,7 @@
 
 ![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRobWllrWdma2U.jpg)
 <h1 align="center">Hi 👋, I'm Chandrasekhar</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A passionate FrontEnd developer from India</h3>
 
 - 🔭 I’m currently working on **FrontEND**
 
