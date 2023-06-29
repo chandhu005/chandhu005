@@ -12,7 +12,7 @@
 - 💬 Ask me about **FRONTEND**
 
 - 📫 How to reach me **chandrasekharchadalawada7@gmail.com**
-- 
+  
 
 <img align="right" alt="Coding" width="400" src="https://consultaninja.com/wp-content/uploads/CodeNinja-1.png">
 
