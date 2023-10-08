@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="400" src="https://consultaninja.com/wp-content/uploads/CodeNinja-1.png">
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.linkedin.com/in/chadalawada-chandrasekhar/"> <p>Linkid in</p></a>
+<a href="https://www.linkedin.com/in/chadalawada-chandrasekhar/"> <img src="https://cdn.pixabay.com/photo/2017/10/04/11/58/linkedin-2815969_640.jpg"/></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
